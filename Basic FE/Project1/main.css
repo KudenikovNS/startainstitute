@@ -1,0 +1,13 @@
+.page {
+  background-color: rgb(215, 207, 207);
+}
+.title {
+  margin: 0;
+  padding: 21px 0 21px 21px;
+}
+.text {
+  background-color: #34495e;
+  color: white;
+  border-radius: 20px;
+  padding: 21px;
+}
